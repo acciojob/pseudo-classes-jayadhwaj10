@@ -25,7 +25,8 @@ ul li{
 	padding:10px;
 }
 
-ul li:first-child,ul li:last-child{
+ul li:first-child,
+ul li:last-child{
 	font-size:22px;
 }
 ul li:nth-last-child(3){
